@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 def adding(a, b):
-    return a + b
+    return a/b
 =======
 def star(n):
     for i in range(n // 2 + 1):
