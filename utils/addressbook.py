@@ -4,7 +4,6 @@ import shelve
 class AddressBook(UserDict):
     def __init__(self):
         super().__init__()
-        self.n = None
 
         filename = 'database/ab_data'
         dt = self.data
