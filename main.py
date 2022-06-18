@@ -1,3 +1,7 @@
+def adding(a, b):
+    return a + b
+
+
 def star(n):
     for i in range(n // 2 + 1):
         for j in range(i + 1):
