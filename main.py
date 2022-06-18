@@ -1,4 +1,4 @@
-def star(n):
+def sun(n):
     for i in range(n // 2 + 1):
         for j in range(i + 1):
             print('*', end='\r')
@@ -10,7 +10,6 @@ def print_hi(name, familyname):
 
 
 def print_hi_2(name, familyname):
-    res = f'Hi, {name} {familyname}'
     print(res)  # Press ⌘F8 to toggle the breakpoint.
 
 
