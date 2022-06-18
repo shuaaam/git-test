@@ -1,7 +1,7 @@
+<<<<<<< HEAD
 def adding(a, b):
     return a + b
-
-
+=======
 def star(n):
     for i in range(n // 2 + 1):
         for j in range(i + 1):
@@ -26,5 +26,5 @@ def mappp(n):
 
 
 if __name__ == '__main__':
-    mappp(9)
-    print('\r')
+
+    print(adding(10, 5))
