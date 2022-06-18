@@ -26,7 +26,11 @@ def star(n):
 
 
 
+<<<<<<< HEAD
 
+=======
+# Press the green button in the gutter to run the script.
+>>>>>>> 983a0de85776628e8499750c1e5e1c5d538e7e03
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
