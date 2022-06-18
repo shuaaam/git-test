@@ -23,7 +23,6 @@ def mappp(n):
         for v in range(k):
             print('*', end='')
         print()
->>>>>>> 07ef82be7654455b5de4f99225f8d51508cf735f
 
 
 if __name__ == '__main__':
