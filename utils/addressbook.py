@@ -13,4 +13,4 @@ class AddressBook(UserDict):
 
         with shelve.open(filename) as states:
             for key in states:
-                print(f'{key}: {states[key]}')
+                print('file loaded')
